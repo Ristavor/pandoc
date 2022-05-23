@@ -1,9 +1,10 @@
 import sys
 from panflute import *
 
+headers = {}
+
 
 def filtering(element, document):
-    headers = {}
     if type(element) == Header:
         elem_as_str = stringify(element)
         if elem_as_str in headers.keys():

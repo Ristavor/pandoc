@@ -8,6 +8,7 @@ BOLD
 # Options
 
 ## General options
+### General options
 
 
 ## Options affecting specific writers

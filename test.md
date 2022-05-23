@@ -6,6 +6,8 @@ bold Bold BOLD
 
 ## General options
 
+### General options
+
 ## Options affecting specific writers
 
 ## Options affecting specific writers
