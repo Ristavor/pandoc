@@ -1,12 +1,16 @@
 **bold** **Bold** **BOLD**
 
-# DESCRIPTION
+# DESCRIPTION B0LD BOLD
 
 # OPTIONS
 
 ## GENERAL OPTIONS
 
 ### GENERAL OPTIONS
+
+### GENERAL OPTIONS
+
+## OPTIONS AFFECTING SPECIFIC WRITERS
 
 ## OPTIONS AFFECTING SPECIFIC WRITERS
 
@@ -18,4 +22,4 @@
 
 # AUTHORS
 
-Some random text that you can see
+Some random text that you can see **bold**

@@ -1,1 +1,2 @@
+This element is repeated. Level: 3, header: "General options"
 This element is repeated. Level: 2, header: "Options affecting specific writers"
